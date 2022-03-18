@@ -1,0 +1,16 @@
+{
+    "contacto":[
+        {
+            "contactoTitulo":"Llámame",
+            "contactoSubtitulo":"999-777-222"
+        },
+        {
+            "contactoMail":"Enviame un correo",
+            "contactoSubtitulo":"hola@gmail.com"
+        },
+        {
+            "contactoLocal":"Localización",
+            "contactoSubtitulo":"Paraná, Entre Ríos, Argentina"
+        }
+    ]
+}

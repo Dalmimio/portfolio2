@@ -1,0 +1,34 @@
+{
+    "skills":[
+        {
+            "title":"Skills",
+            "subtitle":"Mi nivel técnico"
+        },
+        {
+            "titleSkill":"Frontend developer",
+            "subtitleSkill":"Más de 4 años",
+            "skill1":"HTML",
+            "skillPorcentaje":"30%",
+            "skill2":"CSS",
+            "skillPorcentaje2":"30%",
+            "skill3":"JavaScript",
+            "skillPorcentaje3":"3%"
+        },
+        {
+            "titleSkill":"Backend developer",
+            "subtitleSkill":"Más de 4 años",
+            "skill1":"Java(ejemplo)",
+            "skillPorcentaje":"30%",
+            "skill2":"Node js(ejemplo)",
+            "skillPorcentaje2":"30%"
+        },
+        {
+            "titleSkill":"Software",
+            "subtitleSkill":"Más de 1 años",
+            "skill1":"Photoshop",
+            "skillPorcentaje":"60%",
+            "skill2":"Spark Ar",
+            "skillPorcentaje2":"50%"
+        }
+    ]
+}

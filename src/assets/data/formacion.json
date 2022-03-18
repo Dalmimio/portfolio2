@@ -1,0 +1,53 @@
+{
+    "formacion":[
+        {
+            "title":"Formación",
+            "subtitle":"My personal journey",
+            "educacion":"Educación",
+            "trabajo":"Trabajos"            
+        },
+        {
+            "titulo":"Ingeniería Informática",
+            "instituto":"Universidad Nacional del Litoral",
+            "periodo":"2018 - actualidad"
+
+        },
+        {
+            "titulo":"Programador Web Fullstack",
+            "instituto":"Argentina Programa",
+            "periodo":"2021-2022"
+
+        },
+        {
+            "titulo":"Desarrollador Web y Aplicaciones digitales",
+            "instituto":"Instituto Superior Politécnico Córdoba",
+            "periodo":"2022-actualidad"
+
+        },
+        {
+            "titulo":"experiencia 1",
+            "instituto":"empresa",
+            "periodo":"año"
+
+        },
+        {
+            "puesto":"exp 2",
+            "empresa":"empresa",
+            "periodo":"año"
+
+        },
+        {
+            "puesto":"exp 3",
+            "empresa":"empresa",
+            "periodo":"año"
+
+        },
+        {
+            "puesto":"exp 4",
+            "empresa":"empresa",
+            "periodo":"año"
+
+        }
+        
+    ]
+}
