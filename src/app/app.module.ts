@@ -11,6 +11,7 @@ import { ContactoComponent } from './componentes/contacto/contacto.component';
 import { FooterComponent } from './componentes/footer/footer.component';
 import { InicioComponent } from './componentes/inicio/inicio.component';
 import { HttpClientModule } from '@angular/common/http';
+import { ProyectosComponent } from './proyectos/proyectos.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { HttpClientModule } from '@angular/common/http';
     FormacionComponent,
     ContactoComponent,
     FooterComponent,
-    InicioComponent
+    InicioComponent,
+    ProyectosComponent
   ],
   imports: [
     BrowserModule,
