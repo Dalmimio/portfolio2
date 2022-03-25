@@ -11,7 +11,8 @@ import { ContactoComponent } from './componentes/contacto/contacto.component';
 import { FooterComponent } from './componentes/footer/footer.component';
 import { InicioComponent } from './componentes/inicio/inicio.component';
 import { HttpClientModule } from '@angular/common/http';
-import { ProyectosComponent } from './proyectos/proyectos.component';
+import { PortfolioComponent } from './componentes/portfolio/portfolio.component';
+
 
 @NgModule({
   declarations: [
@@ -23,7 +24,7 @@ import { ProyectosComponent } from './proyectos/proyectos.component';
     ContactoComponent,
     FooterComponent,
     InicioComponent,
-    ProyectosComponent
+    PortfolioComponent,
   ],
   imports: [
     BrowserModule,
